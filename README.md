@@ -12,7 +12,7 @@
 <h2>Github stats for nerds</h2>
 <p align = center>
   <br />
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=uwuaroze&theme=dracula">
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=yovxyr&theme=dracula">
 </p>
 
 
