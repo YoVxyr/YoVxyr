@@ -9,7 +9,11 @@
 <br />
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yovxyr" alt="yovxyr" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yovxyr&show_icons=true&locale=en" alt="yovxyr" /></p>
+<h2>Github stats for nerds</h2>
+<p align = center>
+  <br />
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=uwuaroze&theme=dracula">
+</p>
 
 
 
