@@ -25,8 +25,6 @@
 
 <br />
 
-
-## <p align = center> Github Stats </p>
 <p align = center>
   <br />
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=yovxyr&theme=dark](https://streak-stats.demolab.com?user=YoVxyr&theme=violet-punch&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=191919">
